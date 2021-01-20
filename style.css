@@ -1,18 +1,18 @@
 h1{
     text-align: center;
-    font-size: 250%;
+    font-size: 350%;
     border-bottom: 2px solid;
-    font-weight: bold;
+    font-weight: 900;
     padding-bottom: 5px;
+    color: yellow;
 }
-
 h2{
     font-size: 150%;
     text-decoration: underline;
-
 }
 table{
     border-collapse: collapse;
+    text-align: center;
     border: 1px solid black;
 }
 .gradient-button {
@@ -33,3 +33,24 @@ table{
 .gradient-button:hover {
     background-position: right center;
   }
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD93voYxn3k7melIPM2Nrg4q7ROee5THhDhA&usqp=CAU);
+    padding: 5px;
+    color: white;
+    font-weight: 900;
+    font-size: medium;
+    font-style: normal;
+}
+    a:active {
+    color:#0000ff;
+    font-weight:bold
+}     
+    a:visited {
+    color:#66cc66;
+    font-weight:bold
+}
+    a:hover {
+    color:#ff0000;
+    font-weight:bold;
+    text-decoration:none
+}
