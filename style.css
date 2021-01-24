@@ -29,6 +29,7 @@ table{
     background-size: 200% auto;
     box-shadow: 0 0 20px rgba(0, 0, 0, .1);
     transition: .5s;
+
   }
 .gradient-button:hover {
     background-position: right center;
